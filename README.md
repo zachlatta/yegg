@@ -22,4 +22,4 @@ Run with `-help` for full usage instructions.
 
 ## LICENSE
 
-See [LICENSE](https://github.com/zachlatta/yegg/blob/master/LICENSE).
+See [LICENSE](LICENSE).
