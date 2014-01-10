@@ -14,6 +14,12 @@ absolutely no warranty. The author is not responsible for any misuse.
 
     $ go get gihub.com/zachlatta/yegg
 
+## Usage
+
+    $ yegg -user [user] -url [form submit url]
+
+Run with `-help` for full usage instructions.
+
 ## LICENSE
 
 See [LICENSE](https://github.com/zachlatta/yegg/blob/master/LICENSE).
