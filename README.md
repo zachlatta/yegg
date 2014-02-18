@@ -12,7 +12,7 @@ absolutely no warranty. The author is not responsible for any misuse.
 
 ## Installation
 
-    $ go get gihub.com/zachlatta/yegg
+    $ go get github.com/zachlatta/yegg
 
 ## Usage
 
