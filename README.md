@@ -1,4 +1,4 @@
-# Yegg
+# Yegg ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/yegg/readme?pixel)
 
 <img src="http://i.imgur.com/rPVZlqa.png" alt="Yegg Icon" align="right">
 Yegg is a proof-of-concept password retriever for the ESUSD network.
